@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731636527725",
+    "project_id": "todosapp-70f25",
+    "storage_bucket": "todosapp-70f25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731636527725:android:3dd0dad8fe87cc15358564",
+        "android_client_info": {
+          "package_name": "com.btlt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1gMYHkHBWrguwz1ieBI2jFVhJ_pOATA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
